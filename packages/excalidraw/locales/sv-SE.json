@@ -328,7 +328,7 @@
     "embeddable": "Klicka-dra för att skapa en webbplats-inbäddning",
     "text_selected": "Dubbelklicka eller tryck ENTER för att redigera text",
     "text_editing": "Tryck Escape eller Ctrl/Cmd + ENTER för att slutföra redigeringen",
-    "linearElementMulti": "<bold>Dubbel-klicka eller tryck på 'ESCAPE' för att avbryta</bold>",
+    "linearElementMulti": "Dubbelklicka eller tryck på ESCAPE för att avbryta.",
     "lockAngle": "Du kan begränsa vinkeln genom att hålla SKIFT",
     "resize": "Du kan behålla proportioner genom att hålla SHIFT medan du ändrar storlek,\nhåller du ALT ändras storlek relativt mitten",
     "resizeImage": "Du kan ändra storlek fritt genom att hålla SHIFT,\nhåll ALT för att ändra storlek från mitten",
